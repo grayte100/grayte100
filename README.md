@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1729
 - 👀 I’m interested in mathematical-based programming
-- 🌱 I’m currently learning cryptograpy and machine learning
+- 🌱 I’m currently learning cryptography and machine learning
 - 💞️ I’m looking to collaborate on interesting problems
 - 📫 How to reach me: Through my gmail @oriahigreat@gmail.com
 
